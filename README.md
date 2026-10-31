@@ -22,6 +22,9 @@
 
 ## Локальная сборка
 
+Подробная инструкция для Windows: [BUILD-WINDOWS.md](BUILD-WINDOWS.md).
+
+
 ```bash
 pip install -r requirements.txt
 sphinx-build -b html 1.7.0 _site/1.7.0
